@@ -12,22 +12,22 @@ Llevo 19 años en sistemas, redes y ciberseguridad en la administración local. 
 - **Proyectos propios:** Sistema FVA (facturación preparada para VERI*FACTU), davidsilvente.com y una academia de IA.
 - **Formación:** formador en TIC, informática e IA (habilitación de FP para el Empleo).
 
-## Repos de demostración (datos públicos o sintéticos) — en preparación
+## Repos de demostración (datos públicos o sintéticos)
 
-| Repo | Qué será |
+| Repo | Qué es |
 |---|---|
-| mcp-servers-demo | Servidor MCP de ejemplo sobre datos abiertos del BOE |
-| graph-rag-normativa | RAG vs Graph-RAG con Neo4j + Qdrant sobre normativa pública (proyecto de estudio y evaluación) |
-| llm-observability-stack | vLLM/Ollama + OpenTelemetry + Prometheus + Grafana + Langfuse |
-| sdd-example | Módulo construido con Spec Kit + Claude Code + GitHub Actions |
+| [mcp-servers-demo](https://github.com/davidsilvente-dev/mcp-servers-demo) | Servidor MCP de ejemplo sobre datos abiertos del BOE (Python). Incluye una versión desplegada en AWS Lambda con CloudFormation (cuenta de pruebas). |
+| graph-rag-normativa | En preparación: RAG vs Graph-RAG con Neo4j + Qdrant sobre normativa pública (proyecto de estudio y evaluación) |
+| llm-observability-stack | En preparación: vLLM/Ollama + OpenTelemetry + Prometheus + Grafana + Langfuse |
+| sdd-example | En preparación: módulo construido con Spec Kit + Claude Code + GitHub Actions |
 
 ## Stack
 
-Python · FastAPI · PostgreSQL · Qdrant · Neo4j · vLLM · Ollama · MCP · n8n · Docker · Prometheus · Grafana · Langfuse · ENS · RGPD · AI Act
+Python · FastAPI · PostgreSQL · Qdrant · Neo4j · vLLM · Ollama · MCP · n8n · Docker · Prometheus · Grafana · Langfuse · AWS Lambda · ENS · RGPD · AI Act
 
 ## Aprendiendo ahora
 
-GraphRAG (en estudio), OpenTelemetry, AWS AI Practitioner, inglés B2 (en preparación)
+GraphRAG (en estudio), OpenTelemetry, AWS (primeros despliegues; AWS AI Practitioner en preparación), inglés B2 (en preparación)
 
 ## Contacto
 
